@@ -2,12 +2,21 @@
 
 # 404-page
 
-This is a simple 404 page created with create react app.
-The aim of this project is to setup a basis static page using react and sass.
+This is a simple 404 page. The aim of this project is to setup a static page using react and sass.
 
 # Acknowledgments
 
 The design and content comes as a challenge from the website [devchallenges.io](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY)
+
+# Tools Used
+
+- Html,Sass,Js
+- React
+- Bootstrapped usingCreate React App
+
+# Outcome
+
+# Problems
 
 # Helpful links
 

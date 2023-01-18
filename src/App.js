@@ -1,9 +1,13 @@
-import "./App.css";
+import Header from "./components/header";
+import Display from "./components/display";
+import Footer from "./components/footer";
 
 function App() {
   return (
-    <div className="App">
-      <h1>BootStrapped with Create React App</h1>
+    <div>
+      <Header />
+      <Display />
+      <Footer />
     </div>
   );
 }
